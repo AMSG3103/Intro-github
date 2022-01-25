@@ -4,4 +4,4 @@
 
 ### Insertamos una imagen 
 
-![Batman es chido] (ING/Batman.png)
+![Batman es chido](ING/Batman.png)
